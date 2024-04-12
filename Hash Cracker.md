@@ -9,7 +9,7 @@ In CIA triad, hash belongs to the Intergity team :). However, not every hash fun
 
 If you do not believe that, look at what I did to MD5 that I found in the VM.
 
-After the crack, the password I found out was easy. It's time to change our password. Be more complex and noteasyguess please!!!
+After the crack, the password I found out was simple. It's time to change our password. Be more complex and noteasyguess please!!!
 
 # Performance
 ![hashmd5](/Images/pic1.png)
