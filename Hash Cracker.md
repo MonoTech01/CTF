@@ -14,6 +14,8 @@ After the crack, the password I found out was simple. It's time to change our pa
 # Performance
 ![hashmd5](/Images/pic1.png)
 
-Using netcat to connect to the server [nc domainname port]
+Using netcat to connect to the server [nc domainname port]. 
+
+After that, using any online tool that can crack MD5 hash.
 ![hashmd5](/Images/pic2.png)
 
