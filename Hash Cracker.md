@@ -7,7 +7,9 @@ This means hash value should be intact...if it is not, someone changes something
 
 In CIA triad, hash belongs to the Intergity team :). However, not every hash function is secure. For example, MD5 is an old hash function and is easy to crack. 
 
-If you do not believe that, look at what I did to MD5 that I found in the VM. 
+If you do not believe that, look at what I did to MD5 that I found in the VM.
+
+After the crack, the password I found out was easy...It's time to change our password, be more complex and noteasyguess please!!!
 
 # Performance
 ![hashmd5](/Images/pic1.png)
