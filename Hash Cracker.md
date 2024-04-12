@@ -1,7 +1,7 @@
 # Scenario
 ![hashmd5](/Images/pic0.png)
 
-Note: I used two Linux distributions (Parrot OS - Debian; Kali Linux). 
+## Note: I used two Linux distributions (Parrot OS - Debian; Kali Linux). 
 
 # My thoughts
 ## Hello Hash Function! Who are you?
