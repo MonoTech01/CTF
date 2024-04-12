@@ -11,5 +11,7 @@ If you do not believe that, look at what I did to MD5 that I found in the VM.
 
 # Performance
 ![hashmd5](/Images/pic1.png)
+
+Using netcat to connect to the server [nc domainname port]
 ![hashmd5](/Images/pic2.png)
 
