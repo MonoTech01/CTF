@@ -10,4 +10,6 @@ In CIA triad, hash belongs to the Intergity team :). However, not every hash fun
 If you do not believe that, look at what I did to MD5 that I found in the VM. 
 
 # Performance
+![hashmd5](/Images/pic1.png)
+![hashmd5](/Images/pic2.png)
 
